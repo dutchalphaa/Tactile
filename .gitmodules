@@ -1,0 +1,3 @@
+[submodule "Tactile/vendor/spdlog"]
+	path = Tactile/vendor/spdlog
+	url = https://github.com/gabime/spdlog

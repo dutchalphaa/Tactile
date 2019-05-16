@@ -5,7 +5,12 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tactile", "Tactile\Tactile.vcxproj", "{E8DC7B1B-EE42-454F-9E5F-522C45722E3D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample", "Sample\Sample.vcxproj", "{FCABB43B-CA27-4F4D-9946-B214226A756A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SampleCpp", "Sample\Sample.vcxproj", "{FCABB43B-CA27-4F4D-9946-B214226A756A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ADA2FD3A-618A-44E4-A50F-AD344DBC2CE1}"
+	ProjectSection(SolutionItems) = preProject
+		Plans.txt = Plans.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

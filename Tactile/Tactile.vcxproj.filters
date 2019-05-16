@@ -27,9 +27,15 @@
     <ClInclude Include="src\Tactile\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Tactile\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Tactile\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Tactile\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
