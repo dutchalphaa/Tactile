@@ -1,0 +1,4 @@
+some plans for the engine
+Tactile = the actual engine that runs the graphics.
+TactileWarper = the wrapper around the engine that will expose the functionality to c#
+TactileSharper = the c# based code that drives the engine
